@@ -1,0 +1,6 @@
+*.bak
+*.kicad_prl
+*-cache.lib
+fp-info-cache
+*.log
+*.tmp
